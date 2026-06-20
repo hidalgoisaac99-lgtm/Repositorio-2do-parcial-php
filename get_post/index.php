@@ -18,7 +18,7 @@
     <p>haz click en el enlace</p>
 
     <!--ENLACES CON GET-->
-    <a href="recibir_get.php?curso=desarrllo_web">desarrollo web</a>
+    <a href="recibir_get.php?curso=desarrollo_web">desarrollo web</a>
     <a href="recibir_get.php?curso=programacion">programacion</a>
     <a href="recibir_get.php?curso=base_de_datos">Base de datos</a>
 
